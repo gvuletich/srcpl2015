@@ -50,6 +50,6 @@ Pasos para ejecutar en Debian/Ubuntu
 
 donde "n" precede la cantidad de agentes, "r" la cantidad de rondas, "s" la estrategia y "d" el nivel de debug.
 
-
+	NOTA: En una arquitectura de 64bits usar el script start64.sh
 	
 
