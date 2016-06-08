@@ -44,5 +44,12 @@ Pasos para ejecutar en Debian/Ubuntu
 			LD_LIBRARY_PATH=/home/username/Platform_dir/lpsolve64
 
 
+5) Posicionarse por consola en /home/username/Platform_dir y ejecutar con:
+	
+	start.sh n 4 r 10 s 3 d 0
+
+donde "n" precede la cantidad de agentes, "r" la cantidad de rondas, "s" la estrategia y "d" el nivel de debug.
+
+
 	
 
